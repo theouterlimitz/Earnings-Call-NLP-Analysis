@@ -54,6 +54,7 @@ This analysis pipeline provides three core automated capabilities for any given 
 * **`02_NLP_Analysis.ipynb`**: The main notebook where the pre-trained Transformer models are loaded and applied for Sentiment Analysis, Summarization, and Question Answering.
 * **`amazon_earnings_calls_curated.pkl`**: The clean, processed dataset used as the starting point for all NLP tasks.
 * **`/images/`**: Contains any saved plots, such as the sentiment-over-time visualization.
+* **`data.zip`**: Contains 19 Amazon earnings call transcripts.
 
 ## Tools & Libraries Used
 
